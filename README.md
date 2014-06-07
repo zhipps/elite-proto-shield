@@ -18,6 +18,6 @@ Arduino/breadboard are not included
 /hardware - All current Eagle design files (.brd, .sch) as well as early versions of the Eagle files.
 /production - Various test jigs and large panel layouts used for production.
 
-<b>License Information**</b>
+<b>License Information</b>
 
 The hardware is released under Creative Commons Share-alike Non commercial 3.0.
