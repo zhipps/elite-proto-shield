@@ -9,3 +9,15 @@ Program ATtiny 25/45/85 & 24/44/84
 LED on pin 13
 Reset button
 Arduino/breadboard are not included
+
+
+<a href=https://www.eliteoshw.com/products> product page </a>
+
+Repository Contents
+
+/hardware - All current Eagle design files (.brd, .sch) as well as early versions of the Eagle files.
+/production - Various test jigs and large panel layouts used for production.
+
+License Information
+
+The hardware is released under Creative Commons Share-alike Non commercial 3.0.
